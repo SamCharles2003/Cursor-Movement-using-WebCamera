@@ -5,7 +5,12 @@
 4)  FOREFINGER AND MIDDLEFINGER (IF BOTH ARE DISTANT TO EACH OTHER) - Double click
 5)  FOREFINGER AND THUMB (if thumb and forefinger are near) - left click with drag (to disengage raise fore finger)
 
+REQUREMENTS
+1)OpenCv      pip install opencv-python
+2)Pyautogui   pip install PyAutoGUI
+3)Pywinauto   pip install pywinauto
+4) Mediapipe  pip install mediapipe
 
-   REQUREMENTS
-   1)OpenCv
-   2)Pyautogui
+*reference*
+Pywinauto - https://pywinauto.readthedocs.io/en/latest/
+Pyautogui - https://pyautogui.readthedocs.io/en/latest/quickstart.html
